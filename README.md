@@ -1,4 +1,5 @@
 <img src="https://comminfo.rutgers.edu/themes/custom/comminfo/logo.svg">
+
 <p></p>
 
 **Background**
