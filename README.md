@@ -2,7 +2,7 @@
 
 <img src="https://comminfo.rutgers.edu/themes/custom/comminfo/logo.svg">
 
-*Disclaimer: Everything in this repository was for academic purposes. None of the details such as company information or executive positions are real* 
+*Disclaimer: Everything in this repository was for academic purposes only. None of the details such as company information or executive positions are real* 
 
 **Background**
 
